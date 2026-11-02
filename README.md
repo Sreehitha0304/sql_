@@ -1,7 +1,4 @@
-# SQL Mastery Journey
-
 My hands-on journey learning SQL and MySQL from fundamentals to advanced concepts.
-
 ## Topics Covered
 - Database Fundamentals
 - SQL Basics
@@ -17,6 +14,3 @@ My hands-on journey learning SQL and MySQL from fundamentals to advanced concept
 
 ## Practical Project
 Online Banking Database using MySQL.
-
-## Goal
-Build strong SQL skills through practical exercises and real-world database projects.
